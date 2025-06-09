@@ -1,0 +1,14 @@
+# Ignore target folder (build artifacts and temp test files)
+target/
+
+# Ignore IDE/editor settings
+.idea/
+.vscode/
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
