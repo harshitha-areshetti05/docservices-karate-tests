@@ -1,0 +1,16 @@
+# Maven build folders
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Karate report screenshots
+*.png
